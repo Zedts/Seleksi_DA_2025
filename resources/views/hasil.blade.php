@@ -276,7 +276,7 @@
         </div>
 
         <div class="action-buttons">
-            <a href="{{ route('download.hasil', $peserta->id) }}" class="btn btn-primary">
+            <a href="/download-hasil/{{ $peserta->id }}" class="btn btn-primary">
                 Download Hasil Seleksi
             </a>
             <a href="{{ route('leaderboard') }}" class="btn btn-secondary">
