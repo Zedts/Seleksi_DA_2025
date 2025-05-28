@@ -479,11 +479,11 @@
                 data-aos="zoom-in"
                 data-aos-duration="800"
                 data-aos-delay="100"
-                onmouseover="this.querySelector('img').style.objectPosition='center 30%'; this.querySelector('img').src='{{ asset('images/profile/king_ade_hover.jpg') }}'"
-                onmouseout="this.querySelector('img').style.objectPosition='center 30%'; this.querySelector('img').src='{{ asset('images/profile/king_ade.jpg') }}'">
+                onmouseover="this.querySelector('img').style.objectPosition='center 30%'; this.querySelector('img').src='{{ asset('images/profile/king_ade_hover.JPG') }}'"
+                onmouseout="this.querySelector('img').style.objectPosition='center 30%'; this.querySelector('img').src='{{ asset('images/profile/king_ade.JPG') }}'">
                 <div class="member-photo">
                     <img 
-                        src="{{ asset('images/profile/king_ade.jpg') }}" 
+                        src="{{ asset('images/profile/king_ade.JPG') }}" 
                         alt="Ade Putra Primadani, M.PD" 
                         style="object-fit: cover; object-position: center 30%;"
                         onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';"
@@ -506,11 +506,11 @@
                 data-aos="zoom-in" 
                 data-aos-duration="800" 
                 data-aos-delay="100"
-                onmouseover="this.querySelector('img').src='{{ asset('images/profile/firmansyah_hover.jpg') }}'"
-                onmouseout="this.querySelector('img').src='{{ asset('images/profile/firmansyah.jpg') }}'">
+                onmouseover="this.querySelector('img').src='{{ asset('images/profile/firmansyah_hover.JPG') }}'"
+                onmouseout="this.querySelector('img').src='{{ asset('images/profile/firmansyah.JPG') }}'">
                 <div class="member-photo">
                     <img 
-                        src="{{ asset('images/profile/firmansyah.jpg') }}" 
+                        src="{{ asset('images/profile/firmansyah.JPG') }}" 
                         alt="Firmansyah" 
                         onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';"
                     >
@@ -524,11 +524,11 @@
                 data-aos="zoom-in" 
                 data-aos-duration="800" 
                 data-aos-delay="200"
-                onmouseover="this.querySelector('img').src='{{ asset('images/profile/pratistha_hover.jpg') }}'"
-                onmouseout="this.querySelector('img').src='{{ asset('images/profile/pratistha.jpg') }}'">
+                onmouseover="this.querySelector('img').src='{{ asset('images/profile/pratistha_hover.JPG') }}'"
+                onmouseout="this.querySelector('img').src='{{ asset('images/profile/pratistha.JPG') }}'">
                 <div class="member-photo">
                     <img 
-                        src="{{ asset('images/profile/pratistha.jpg') }}" 
+                        src="{{ asset('images/profile/pratistha.JPG') }}" 
                         alt="Pratistha" 
                         onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';"
                     >
@@ -546,10 +546,10 @@
             data-aos="flip-left"
             data-aos-duration="800"
             data-aos-delay="100"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/miska_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/miska.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/miska_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/miska.JPG') }}'">
             <div class="member-photo">
-                <img src="{{ asset('images/profile/miska_anjani.jpg') }}" alt="Miska" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
+                <img src="{{ asset('images/profile/miska_anjani.JPG') }}" alt="Miska" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
             </div>
             <h5 class="member-name">Miska</h5>
             <p class="member-position">Sekretaris Umum</p>
@@ -560,10 +560,10 @@
             data-aos="flip-right"
             data-aos-duration="800"
             data-aos-delay="200"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/viola_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/viola.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/viola_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/viola.JPG') }}'">
             <div class="member-photo">
-                <img src="{{ asset('images/profile/viola.jpg') }}" alt="Viola" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
+                <img src="{{ asset('images/profile/viola.JPG') }}" alt="Viola" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
             </div>
             <h5 class="member-name">Viola</h5>
             <p class="member-position">Sekretaris Kedua</p>
@@ -574,10 +574,10 @@
             data-aos="flip-up"
             data-aos-duration="800"
             data-aos-delay="300"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/raysa_aqila_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/raysa_aqila.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/raysa_aqila_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/raysa_aqila.JPG') }}'">
             <div class="member-photo">
-                <img src="{{ asset('images/profile/raysa_aqila.jpg') }}" alt="Raysa" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
+                <img src="{{ asset('images/profile/raysa_aqila.JPG') }}" alt="Raysa" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
             </div>
             <h5 class="member-name">Raysa</h5>
             <p class="member-position">Juang / Bendahara</p>
@@ -591,10 +591,10 @@
             data-aos="zoom-in"
             data-aos-duration="800"
             data-aos-delay="100"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/lutfan_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/lutfan.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/lutfan_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/lutfan.JPG') }}'">
             <div class="member-photo">
-                <img src="{{ asset('images/profile/lutfan.jpg') }}" alt="Lutfan" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
+                <img src="{{ asset('images/profile/lutfan.JPG') }}" alt="Lutfan" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
             </div>
             <h5 class="member-name">Lutfan</h5>
             <p class="member-position">Anggota Kurikulum</p>
@@ -603,10 +603,10 @@
             data-aos="zoom-in"
             data-aos-duration="800"
             data-aos-delay="200"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/lutania_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/lutania.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/lutania_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/lutania.JPG') }}'">
             <div class="member-photo">
-                <img src="{{ asset('images/profile/lutania.jpg') }}" alt="Lutania" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
+                <img src="{{ asset('images/profile/lutania.JPG') }}" alt="Lutania" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
             </div>
             <h5 class="member-name">Lutania</h5>
             <p class="member-position">Anggota Kurikulum</p>
@@ -615,10 +615,10 @@
             data-aos="zoom-in"
             data-aos-duration="800"
             data-aos-delay="300"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/bilqis_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/bilqis.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/bilqis_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/bilqis.JPG') }}'">
             <div class="member-photo">
-                <img src="{{ asset('images/profile/bilqis.jpg') }}" alt="Bilqis" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
+                <img src="{{ asset('images/profile/bilqis.JPG') }}" alt="Bilqis" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
             </div>
             <h5 class="member-name">Bilqis</h5>
             <p class="member-position">Anggota Kurikulum</p>
@@ -633,11 +633,11 @@
             data-aos="zoom-in"
             data-aos-duration="800"
             data-aos-delay="100"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/rakan_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/rakan.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/rakan_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/rakan.JPG') }}'">
             <div class="member-photo">
                 <img
-                    src="{{ asset('images/profile/rakan.jpg') }}"
+                    src="{{ asset('images/profile/rakan.JPG') }}"
                     alt="Rakan"
                     onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';"
                 >
@@ -649,11 +649,11 @@
             data-aos="zoom-in"
             data-aos-duration="800"
             data-aos-delay="200"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/gielang_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/gielang.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/gielang_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/gielang.JPG') }}'">
             <div class="member-photo">
                 <img
-                    src="{{ asset('images/profile/gielang.jpg') }}"
+                    src="{{ asset('images/profile/gielang.JPG') }}"
                     alt="Gielang"
                     onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';"
                 >
@@ -665,11 +665,11 @@
             data-aos="zoom-in"
             data-aos-duration="800"
             data-aos-delay="300"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/nabil_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/nabil.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/nabil_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/nabil.JPG') }}'">
             <div class="member-photo">
                 <img
-                    src="{{ asset('images/profile/nabil.jpg') }}"
+                    src="{{ asset('images/profile/nabil.JPG') }}"
                     alt="Nabil"
                     onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';"
                 >
@@ -681,11 +681,11 @@
             data-aos="zoom-in"
             data-aos-duration="800"
             data-aos-delay="400"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/ghania_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/ghania.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/ghania_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/ghania.JPG') }}'">
             <div class="member-photo">
                 <img
-                    src="{{ asset('images/profile/ghania.jpg') }}"
+                    src="{{ asset('images/profile/ghania.JPG') }}"
                     alt="Ghania"
                     onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';"
                 >
@@ -702,11 +702,11 @@
             data-aos="zoom-in"
             data-aos-duration="800"
             data-aos-delay="100"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/fahry_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/fahry.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/fahry_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/fahry.JPG') }}'">
             <div class="member-photo">
                 <img
-                    src="{{ asset('images/profile/fahry.jpg') }}"
+                    src="{{ asset('images/profile/fahry.JPG') }}"
                     alt="Fahry"
                     onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';"
                 >
@@ -718,11 +718,11 @@
             data-aos="zoom-in"
             data-aos-duration="800"
             data-aos-delay="200"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/amel_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/amel.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/amel_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/amel.JPG') }}'">
             <div class="member-photo">
                 <img
-                    src="{{ asset('images/profile/amel.jpg') }}"
+                    src="{{ asset('images/profile/amel.JPG') }}"
                     alt="Amel"
                     onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';"
                 >
@@ -734,11 +734,11 @@
             data-aos="zoom-in"
             data-aos-duration="800"
             data-aos-delay="300"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/aqila_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/aqila.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/aqila_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/aqila.JPG') }}'">
             <div class="member-photo">
                 <img
-                    src="{{ asset('images/profile/aqila.jpg') }}"
+                    src="{{ asset('images/profile/aqila.JPG') }}"
                     alt="Aqila"
                     onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';"
                 >
@@ -755,11 +755,11 @@
             data-aos="zoom-in"
             data-aos-duration="800"
             data-aos-delay="100"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/royyan_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/royyan.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/royyan_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/royyan.JPG') }}'">
             <div class="member-photo">
                 <img
-                    src="{{ asset('images/profile/royyan.jpg') }}"
+                    src="{{ asset('images/profile/royyan.JPG') }}"
                     alt="Royyan"
                     onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';"
                 >
@@ -771,11 +771,11 @@
             data-aos="zoom-in"
             data-aos-duration="800"
             data-aos-delay="200"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/fathir_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/fathir.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/fathir_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/fathir.JPG') }}'">
             <div class="member-photo">
                 <img
-                    src="{{ asset('images/profile/fathir.jpg') }}"
+                    src="{{ asset('images/profile/fathir.JPG') }}"
                     alt="Fathir"
                     onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';"
                 >
@@ -792,10 +792,10 @@
             data-aos="zoom-in"
             data-aos-duration="800"
             data-aos-delay="100"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/rangga_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/rangga.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/rangga_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/rangga.JPG') }}'">
             <div class="member-photo">
-                <img src="{{ asset('images/profile/rangga.jpg') }}" alt="Rangga" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
+                <img src="{{ asset('images/profile/rangga.JPG') }}" alt="Rangga" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
             </div>
             <h5 class="member-name">Rangga</h5>
             <p class="member-position">Anggota Sarpras</p>
@@ -804,10 +804,10 @@
             data-aos="zoom-in"
             data-aos-duration="800"
             data-aos-delay="200"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/satrio_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/satrio.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/satrio_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/satrio.JPG') }}'">
             <div class="member-photo">
-                <img src="{{ asset('images/profile/satrio.jpg') }}" alt="Satrio" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
+                <img src="{{ asset('images/profile/satrio.JPG') }}" alt="Satrio" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
             </div>
             <h5 class="member-name">Satrio</h5>
             <p class="member-position">Anggota Sarpras</p>
@@ -816,10 +816,10 @@
             data-aos="zoom-in"
             data-aos-duration="800"
             data-aos-delay="300"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/putri_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/putri.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/putri_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/putri.JPG') }}'">
             <div class="member-photo">
-                <img src="{{ asset('images/profile/putri.jpg') }}" alt="Putri" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
+                <img src="{{ asset('images/profile/putri.JPG') }}" alt="Putri" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
             </div>
             <h5 class="member-name">Putri</h5>
             <p class="member-position">Anggota Sarpras</p>
@@ -828,10 +828,10 @@
             data-aos="zoom-in"
             data-aos-duration="800"
             data-aos-delay="400"
-            onmouseover="this.querySelector('img').src='{{ asset('images/profile/intan_hover.jpg') }}'"
-            onmouseout="this.querySelector('img').src='{{ asset('images/profile/intan.jpg') }}'">
+            onmouseover="this.querySelector('img').src='{{ asset('images/profile/intan_hover.JPG') }}'"
+            onmouseout="this.querySelector('img').src='{{ asset('images/profile/intan.JPG') }}'">
             <div class="member-photo">
-                <img src="{{ asset('images/profile/intan.jpg') }}" alt="Intan" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
+                <img src="{{ asset('images/profile/intan.JPG') }}" alt="Intan" onerror="this.style.display='none'; this.parentNode.innerHTML='Foto belum tersedia';">
             </div>
             <h5 class="member-name">Intan</h5>
             <p class="member-position">Anggota Sarpras</p>
